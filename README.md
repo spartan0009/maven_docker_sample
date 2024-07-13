@@ -1,4 +1,4 @@
-# docker-maven-sample
+## docker-maven-sample
 This is a sample that explains how we can build & package a maven project using Docker Containers.
 
 Container used for built: maven:3.6.0-jdk-11-slim
